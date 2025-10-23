@@ -1,16 +1,10 @@
-[
-  {
-    "id": "974b65b4918022e4",
-    "username": "800039019",
-    "password": "gt",
-    "expiresAt": "2025-10-16",
-    "allowOffline": true
+{
+  "john123": {
+    "active": true,
+    "expiry": "2025-12-31"
   },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+  "blockeduser": {
+    "active": false,
+    "expiry": "2023-01-01"
   }
-]
+}
