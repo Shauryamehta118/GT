@@ -1,19 +1,14 @@
 [
-    {
-        "device_id": "974b65b4918022e4",
-        "key": "800039019",
-        "expirydate": "20-10-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
+  {
+    "id": "abc123def456ghi789",
+    "key": "key1",
+    "expiresAt": "2025-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  }
 ]
-
-
-
-
-
